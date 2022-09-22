@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="my_rpg_2017"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_rpg_2017">
+				<Option output="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/my_rpg_2017" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 my_rpg_2017"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="my_rpg_2017/fast">
+				<Option output="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/my_rpg_2017" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/14.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 my_rpg_2017/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/include/rpg.h">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/button_is_clicked.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/change_letter_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/change_map_with_save.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/check_button_ng.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/check_button_pause.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/check_save.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/choice_character.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/clean_str.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/close_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/convert_int_str.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/create_end.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/create_fight.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/create_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/create_init_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/create_intro.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/create_load.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/create_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/destroy_rpg.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/destroy_scene.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/end_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_end.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_fight.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_init_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_intro.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_load.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_quit.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/event_tuto.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/fight_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/file/get_from_file.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/file/parse_file.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/found_letter.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/free_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/get_save.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_button.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_end.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_fight.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_menu_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_mob.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_song.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_spr_txt.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/init_text.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/intro_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/load_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/main.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/maj_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/menu_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/move_background_intro.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/move_particle.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/move_rect.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/movement_bird.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/movement_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/movement_player.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_arraylen.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_destroy_im.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_free.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_getnbr.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_puterror.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_rpg.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_strcat.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_strcmp.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_strcpy.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_strdup.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_strlen.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/my_strncmp.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/pt_map.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_end.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_fight.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_init_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_intro.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_load.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_menu.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/refresh_tuto.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/status_end.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/status_intro.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/str_to_word_array.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/tuto_game.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/src/write_in_file.c">
+			<Option target="my_rpg_2017"/>
+		</Unit>
+		<Unit filename="/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

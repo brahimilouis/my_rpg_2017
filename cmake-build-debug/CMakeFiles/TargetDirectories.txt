@@ -1,0 +1,3 @@
+/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/brahimi/work/epitech/tek1/graphical/my_rpg_2017/cmake-build-debug/CMakeFiles/my_rpg_2017.dir
